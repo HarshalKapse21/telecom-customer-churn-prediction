@@ -230,5 +230,5 @@ Feel free to adapt the above steps based on your specific use case and programmi
 
 ### Connect With Me 
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)]https://www.linkedin.com/in/harshal-kapse-0b4331260/ [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada)**
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kapse-blue?logo=linkedin)](https://www.linkedin.com/in/harshal-kapse-0b4331260/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Harshal%20Kapse-2b3137?logo=github)](https://github.com/HarshalKapse21/telecom-customer-churn-prediction)
